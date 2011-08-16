@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'rails', '~> 3.1.0.rc4'
-gem 'mysql2'
+gem 'pg'
 
 # core function gems
 gem 'devise',              '~> 1.4.2'
